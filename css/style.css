@@ -1,0 +1,21 @@
+html,
+body,
+#map-id {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+.legend i {
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
+.legend {
+    line-height: 18px;
+    color: white;
+}
+p {
+  text-align: center;
+}
